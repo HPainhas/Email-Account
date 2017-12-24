@@ -1,0 +1,2 @@
+# Email-Account
+Interface for email accounts provided by Ohio State. Each account instance is associated with 3 pieces of information: first name, last name, and email address. First and last names contain only alphabetic characters (hyphenated names and apostrophes, for example, are disallowed). Email addresses are strings of the form "name.N@osu.edu", where name is the person's last name, and N is a positive integer that ensures uniqueness of each email address.
